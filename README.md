@@ -2,7 +2,7 @@
 <h3 align="center">SMK 1 Perguruan Cikini</h3>
 <img align="right" alt="anya" width="400" src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif"
 
-Apprenticeship at [PT. DOKTER MOBIL](https://www.doktermobil.com/)
+Pernah magang di [PT. DOKTER MOBIL](https://www.doktermobil.com/)
 
 <h3 align="left">Socials media:</h3>
 <p align="left">
