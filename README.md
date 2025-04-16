@@ -1,6 +1,6 @@
 <h1 align="center">Yogi Ardiansyah Pratama</h1>
 <h3 align="center">SMK 1 Perguruan Cikini</h3>
-<img align="right" alt="anya" width="400" src="https://media.tenor.com/6ZhzHHYyNxoAAAAC/luffy.gif"
+<img align="right" alt="anya" width="400" src="https://tenor.com/dEi82ap8h7A.gif"
 
 
 <h3 align="left">Socials media:</h3>
