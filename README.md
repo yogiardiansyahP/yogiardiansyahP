@@ -1,6 +1,6 @@
 <h1 align="center">Yogi Ardiansyah Pratama</h1>
 <h3 align="center">SMK 1 Perguruan Cikini</h3>
-<img align="right" alt="anya" width="400" src="<div class="tenor-gif-embed" data-postid="2925971779162675728" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/damonfeuer-damon-kwek-kwek-kwek-miku-gif-2925971779162675728">Damonfeuer Kwek GIF</a>from <a href="https://tenor.com/search/damonfeuer-gifs">Damonfeuer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="anya" width="400" src="">
 
 
 <h3 align="left">Socials media:</h3>
