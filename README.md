@@ -6,7 +6,7 @@
 <h3 align="left">Socials media:</h3>
 <p align="left">
 <a href="https://www.instagram.com/apa_coba0987/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogiardiansyah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/apa_coba0987/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogiardiansyah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/g4resst/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogiardiansyah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Saya bisa menggunakan:</h3>
