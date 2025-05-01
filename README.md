@@ -1,5 +1,5 @@
 <h1 align="center">Yogi Ardiansyah Pratama</h1>
-<h3 align="center">Politekhnik Idn Bogor</h3>
+<h3 align="center">Alone</h3>
 
 
 
